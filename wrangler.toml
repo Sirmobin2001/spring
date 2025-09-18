@@ -10,8 +10,8 @@ send_metrics = false
 minify = false
 
 [vars]
-# UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
-# PROXYIP = "nima.nscl.ir"
+# UUID = "9f7b477c-65f0-4c21-8cf6-423f645871fd"
+# PROXYIP = "turk.radicalization.ir"
 # DNS_RESOLVER_URL = "https://1.1.1.1/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
